@@ -1,1 +1,2 @@
-# c_program_projects
+#c_program projects all
+author:sagun bastola
